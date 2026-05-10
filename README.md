@@ -8,7 +8,7 @@
 To do so, please follow [this article](https://support.appsflyer.com/hc/en-us/articles/23583984402193-Using-the-Customer-Assistant-Chatbot)
 
 
-## Table Of Content
+## Table Of Content tets
   * [This Module is Built for](#plugin-build-for)
   * [Adding The Connector To Your Project](#install-connector)
     + [Cocoapods](#cocoapods)
